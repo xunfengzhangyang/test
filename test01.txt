@@ -1,0 +1,2 @@
+py -3 -m venv .venv
+D:\dev\python_virtual\myenv\scripts\activate
